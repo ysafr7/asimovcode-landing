@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#2b2741"/>
+  <text x="8" y="46" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="30" letter-spacing="-1" fill="#f3f5fe">As</text>
+  <text x="42" y="16" font-family="Inter, system-ui, sans-serif" font-size="9" fill="#d2cefd">code</text>
+</svg>
